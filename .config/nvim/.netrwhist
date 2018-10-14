@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/lsteam/Projects/CMSC330/cmsc330fall18-public/discussions/disc4'
+let g:netrw_dirhist_2='/home/lsteam/Projects/CMSC330/cmsc330fall18-public/discussions/disc4/src'
+let g:netrw_dirhist_3='/home/lsteam/Projects/CMSC330/cmsc330fall18-public/p2b/src'

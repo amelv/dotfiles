@@ -1,0 +1,13 @@
+2018/09/13-13:15:53.479 11898 Reusing MANIFEST /home/lsteam/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/09/13-13:15:53.479 11898 Recovering log #17
+2018/09/13-13:15:53.485 11898 Reusing old log /home/lsteam/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000017.log 
+2018/09/13-13:44:09.589 13696 Level-0 table #21: started
+2018/09/13-13:44:09.637 13696 Level-0 table #21: 1172381 bytes OK
+2018/09/13-13:44:09.642 13696 Delete type=0 #17
+2018/09/13-14:00:56.857 13696 Compacting 2@0 + 1@1 files
+2018/09/13-14:00:56.946 13696 Generated table #22@0: 10 keys, 129825 bytes
+2018/09/13-14:00:56.946 13696 Compacted 2@0 + 1@1 files => 129825 bytes
+2018/09/13-14:00:56.948 13696 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/13-14:00:56.949 13696 Delete type=2 #18
+2018/09/13-14:00:56.951 13696 Delete type=2 #21
+2018/09/13-14:00:56.952 13696 Delete type=2 #16

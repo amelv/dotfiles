@@ -1,0 +1,28 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+text/x-processing=processing-pde.desktop
+text/x-arduino=arduino-arduinoide.desktop
+
+[Added Associations]
+image/png=gimp.desktop;okularApplication_kimgio.desktop;
+image/jpeg=gimp.desktop;feh.desktop;okularApplication_kimgio.desktop;
+image/bmp=okularApplication_kimgio.desktop;feh.desktop;
+image/x-xcf=gimp.desktop;
+application/zip=org.gnome.Nautilus.desktop;
+application/javascript=atom.desktop;
+text/html=firefox.desktop;
+audio/mpeg=mpv.desktop;
+application/x-cd-image=atom.desktop;
+application/x-gamecube-rom=atom.desktop;
+application/epub+zip=okularApplication_epub.desktop;
+application/x-mobipocket-ebook=okularApplication_mobi.desktop;calibre-gui.desktop;
+video/x-msvideo=mpv.desktop;
+application/pdf=okularApplication_pdf.desktop;
+video/mp4=mpv.desktop;
+application/x-ruby=org.gnome.gedit.desktop;atom.desktop;
+image/gif=firefox.desktop;feh.desktop;okularApplication_kimgio.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=abiword.desktop;

@@ -1,0 +1,26 @@
+# GIMP action-history
+
+(history-item "edit-paste" 4)
+(history-item "edit-copy" 0)
+(history-item "file-quit" 2)
+(history-item "file-export-as" 1)
+(history-item "file-open" 1)
+(history-item "image-flip-horizontal" 2)
+(history-item "edit-fill-fg" 0)
+(history-item "image-flip-vertical" 1)
+(history-item "windows-tab-position" 0)
+(history-item "edit-cut" 0)
+(history-item "layers-new" 0)
+(history-item "filters-noise-slur" 0)
+(history-item "filters-gaussian-blur" 0)
+(history-item "filters-erode" 0)
+(history-item "filters-softglow" 0)
+(history-item "file-save" 0)
+(history-item "filters-invert-perceptual" 0)
+(history-item "tools-zoom" 0)
+(history-item "image-rotate-180" 0)
+(history-item "layers-crop-to-selection" 0)
+(history-item "file-overwrite" 0)
+(history-item "image-crop-to-selection" 1)
+
+# end of action-history

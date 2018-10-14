@@ -1,0 +1,15 @@
+2018/10/12-20:42:00.551 27132 Reusing MANIFEST /home/lsteam/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/10/12-20:42:00.551 27132 Recovering log #27
+2018/10/12-20:42:00.552 27132 Reusing old log /home/lsteam/.config/google-chrome/Default/Session Storage/000027.log 
+2018/10/12-20:44:59.782 28286 Level-0 table #31: started
+2018/10/12-20:44:59.787 28286 Level-0 table #31: 25968 bytes OK
+2018/10/12-20:44:59.790 28286 Delete type=0 #27
+2018/10/12-20:44:59.790 28286 Compacting 4@0 + 1@1 files
+2018/10/12-20:44:59.798 28286 Generated table #32@0: 808 keys, 37445 bytes
+2018/10/12-20:44:59.798 28286 Compacted 4@0 + 1@1 files => 37445 bytes
+2018/10/12-20:44:59.800 28286 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/10/12-20:44:59.801 28286 Delete type=2 #28
+2018/10/12-20:44:59.801 28286 Delete type=2 #22
+2018/10/12-20:44:59.801 28286 Delete type=2 #19
+2018/10/12-20:44:59.801 28286 Delete type=2 #25
+2018/10/12-20:44:59.801 28286 Delete type=2 #31

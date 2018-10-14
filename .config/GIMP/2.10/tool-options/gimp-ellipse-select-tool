@@ -1,0 +1,6 @@
+# GIMP gimp-ellipse-select-tool options
+
+(fixed-rule height)
+(overridden-fixed-aspect yes)
+
+# end of gimp-ellipse-select-tool options

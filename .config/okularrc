@@ -1,0 +1,30 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=997
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Recent Files]
+File1[$e]=$HOME/pictures/shit.bmp
+File10[$e]=$HOME/Textbooks/Introduction_to_algorithms_3rd_edition.pdf
+File2[$e]=$HOME/Projects/p5/addons/p5.js-speech/p5.js-speech/README.md
+File3[$e]=$HOME/Calibre Library/Unknown/[Will Durant] The story of philosophy the lives a(b-ok.xyz) (3)/[Will Durant] The story of philosophy the - Unknown.pdf
+File4[$e]=$HOME/Textbooks/thucydides readings.pdf
+File5[$e]=$HOME/Textbooks/[Will_Durant]_The_story_of_philosophy_the_lives_a(b-ok.xyz).pdf
+File6[$e]=$HOME/Projects/CMSC389C/389Cfall18/week_03/Mining and Proof-of-Work.pdf
+File7[$e]=$HOME/Textbooks/[S._Marc_Cohen;_Patricia_Curd;_C._D._C._Reeve]_Rea(b-ok.xyz).pdf
+File8[$e]=$HOME/sketchbook/boi/animation.gif
+File9[$e]=$HOME/Textbooks/Film Art_An Introduction_Bordwell_8th Pt1.pdf
+Name1[$e]=shit.bmp
+Name10[$e]=Introduction_to_algorithms_3rd_edition.pdf
+Name2[$e]=README.md
+Name3[$e]=[Will Durant] The story of philosophy the - Unknown.pdf
+Name4[$e]=thucydides readings.pdf
+Name5[$e]=[Will_Durant]_The_story_of_philosophy_the_lives_a(b-ok.xyz).pdf
+Name6[$e]=Mining and Proof-of-Work.pdf
+Name7[$e]=[S._Marc_Cohen;_Patricia_Curd;_C._D._C._Reeve]_Rea(b-ok.xyz).pdf
+Name8[$e]=animation.gif
+Name9[$e]=Film Art_An Introduction_Bordwell_8th Pt1.pdf

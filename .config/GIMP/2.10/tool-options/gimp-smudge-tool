@@ -1,0 +1,12 @@
+# GIMP gimp-smudge-tool options
+
+(foreground (color-rgb 0.911392 0.000000 0.000000))
+(background (color-rgb 0.000000 0.000000 0.000000))
+(brush "Sparks")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 60.000000)
+(brush-spacing 0.150000)
+
+# end of gimp-smudge-tool options

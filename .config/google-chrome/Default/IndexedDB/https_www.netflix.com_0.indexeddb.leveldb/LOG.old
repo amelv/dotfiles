@@ -1,0 +1,6 @@
+2018/09/28-17:13:38.810 15322 Reusing MANIFEST /home/lsteam/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/28-17:13:38.810 15322 Recovering log #25
+2018/09/28-17:13:38.820 15322 Reusing old log /home/lsteam/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000025.log 
+2018/09/28-18:22:48.539 22156 Level-0 table #29: started
+2018/09/28-18:22:48.586 22156 Level-0 table #29: 1885623 bytes OK
+2018/09/28-18:22:48.592 22156 Delete type=0 #25

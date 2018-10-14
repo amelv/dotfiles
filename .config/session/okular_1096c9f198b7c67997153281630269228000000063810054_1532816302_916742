@@ -1,0 +1,11 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Downloads/audacity-minsrc-2.2.2/audacity-minsrc-2.2.2-rc1/INSTALL
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
